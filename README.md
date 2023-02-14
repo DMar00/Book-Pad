@@ -3,5 +3,5 @@ BookPad è una piattaforma di narrativa online che vuole unire lettori e scritto
 
 ### Folders
 * Deliverables: contiene i documenti pronti in formato PDF
-* Docs: contiene i semipreparati 
+* Docs: contiene i i file in formato word
 * Web Application: contiene il codice sorgente 
